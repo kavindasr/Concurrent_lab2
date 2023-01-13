@@ -18,9 +18,13 @@ public class BoardingArea {
     }
 
     public void enterBoardingArea(Rider rider) throws InterruptedException {
+        // Wait until the boarding area opens
+        blockBoardingArea();
         mutexWaiting.acquire();
         waiting++;
         mutexWaiting.release();
+        // Release boarding area
+        openBoardingArea();
         // Wait for the bus
         busSem.acquire();
     }

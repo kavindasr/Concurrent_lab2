@@ -16,10 +16,6 @@ public class Rider implements Runnable{
     @Override
     public void run() {
         try {
-            // Wait until the boarding area opens
-            boardingArea.blockBoardingArea();
-            // Release boarding area
-            boardingArea.openBoardingArea();
             boardingArea.enterBoardingArea(this);
             boardBus();
             boardingArea.releaseBoarded();
