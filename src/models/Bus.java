@@ -21,13 +21,13 @@ public class Bus implements Runnable {
     @Override
     public void run() {
         try {
-            // Block new riders
-            boardingArea.blockBoardingArea();
+//            // Block new riders
+//            boardingArea.blockBoardingArea();
             arrive();
             boardingArea.boardRiders(this);
             depart();
-            // Open boarding area
-            boardingArea.openBoardingArea();
+//            // Open boarding area
+//            boardingArea.openBoardingArea();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

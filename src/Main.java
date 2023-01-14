@@ -10,6 +10,9 @@ public class Main {
         Rider rider3 = new Rider(3,boardingArea);
         Bus bus = new Bus(1,5,boardingArea);
 
+        Bus bus2 = new Bus(2,5,boardingArea);
+        (new Thread(bus2)).start();
+        Thread.sleep(1000);
         (new Thread(rider1)).start();
         (new Thread(rider2)).start();
 
