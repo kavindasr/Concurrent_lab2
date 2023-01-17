@@ -29,7 +29,7 @@ src
 │   ├── Bus.java
 │   └── Rider.java
 └── simulator
-    ├── AbstractSimulator.java
+    ├── Simulator.java
     ├── BusSimulator.java
     └── RiderSimulator.java
 ```
