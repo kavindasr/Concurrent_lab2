@@ -1,107 +1,204 @@
-Bus:0 arrived
 Rider:0 enter to the boarding area
+Bus:0 arrived
 Rider:0 Boarded to the bus
 Bus:0 depart
 Rider:1 enter to the boarding area
 Rider:2 enter to the boarding area
 Rider:3 enter to the boarding area
-Bus:1 arrived
-Rider:1 Boarded to the bus
-Rider:2 Boarded to the bus
-Rider:3 Boarded to the bus
-Bus:1 depart
 Rider:4 enter to the boarding area
 Rider:5 enter to the boarding area
 Rider:6 enter to the boarding area
-Bus:2 arrived
-Rider:4 Boarded to the bus
-Rider:5 Boarded to the bus
-Rider:6 Boarded to the bus
-Bus:2 depart
 Rider:7 enter to the boarding area
 Rider:8 enter to the boarding area
 Rider:9 enter to the boarding area
-Bus:3 arrived
-Rider:7 Boarded to the bus
-Rider:8 Boarded to the bus
-Rider:9 Boarded to the bus
-Bus:3 depart
 Rider:10 enter to the boarding area
 Rider:11 enter to the boarding area
 Rider:12 enter to the boarding area
 Rider:13 enter to the boarding area
-Bus:4 arrived
-Rider:10 Boarded to the bus
-Rider:11 Boarded to the bus
-Rider:12 Boarded to the bus
-Rider:13 Boarded to the bus
-Bus:4 depart
 Rider:14 enter to the boarding area
 Rider:15 enter to the boarding area
 Rider:16 enter to the boarding area
-Bus:5 arrived
-Rider:14 Boarded to the bus
-Rider:15 Boarded to the bus
-Rider:16 Boarded to the bus
-Bus:5 depart
 Rider:17 enter to the boarding area
 Rider:18 enter to the boarding area
 Rider:19 enter to the boarding area
-Bus:6 arrived
-Rider:17 Boarded to the bus
-Rider:18 Boarded to the bus
-Rider:19 Boarded to the bus
-Bus:6 depart
 Rider:20 enter to the boarding area
 Rider:21 enter to the boarding area
 Rider:22 enter to the boarding area
 Rider:23 enter to the boarding area
-Bus:7 arrived
-Rider:20 Boarded to the bus
-Rider:21 Boarded to the bus
-Rider:22 Boarded to the bus
-Rider:23 Boarded to the bus
-Bus:7 depart
 Rider:24 enter to the boarding area
 Rider:25 enter to the boarding area
 Rider:26 enter to the boarding area
-Bus:8 arrived
-Rider:24 Boarded to the bus
-Rider:25 Boarded to the bus
-Rider:26 Boarded to the bus
-Bus:8 depart
 Rider:27 enter to the boarding area
 Rider:28 enter to the boarding area
 Rider:29 enter to the boarding area
-Bus:9 arrived
-Rider:27 Boarded to the bus
-Rider:28 Boarded to the bus
-Rider:29 Boarded to the bus
-Bus:9 depart
 Rider:30 enter to the boarding area
 Rider:31 enter to the boarding area
 Rider:32 enter to the boarding area
 Rider:33 enter to the boarding area
-Bus:10 arrived
+Rider:34 enter to the boarding area
+Rider:35 enter to the boarding area
+Rider:36 enter to the boarding area
+Rider:37 enter to the boarding area
+Rider:38 enter to the boarding area
+Rider:39 enter to the boarding area
+Rider:40 enter to the boarding area
+Rider:41 enter to the boarding area
+Rider:42 enter to the boarding area
+Rider:43 enter to the boarding area
+Rider:44 enter to the boarding area
+Rider:45 enter to the boarding area
+Rider:46 enter to the boarding area
+Rider:47 enter to the boarding area
+Rider:48 enter to the boarding area
+Rider:49 enter to the boarding area
+Rider:50 enter to the boarding area
+Rider:51 enter to the boarding area
+Rider:52 enter to the boarding area
+Rider:53 enter to the boarding area
+Rider:54 enter to the boarding area
+Bus:1 arrived
+Rider:1 Boarded to the bus
+Rider:2 Boarded to the bus
+Rider:3 Boarded to the bus
+Rider:4 Boarded to the bus
+Rider:5 Boarded to the bus
+Rider:6 Boarded to the bus
+Rider:7 Boarded to the bus
+Rider:8 Boarded to the bus
+Rider:9 Boarded to the bus
+Rider:10 Boarded to the bus
+Rider:11 Boarded to the bus
+Rider:12 Boarded to the bus
+Rider:13 Boarded to the bus
+Rider:14 Boarded to the bus
+Rider:15 Boarded to the bus
+Rider:16 Boarded to the bus
+Rider:17 Boarded to the bus
+Rider:18 Boarded to the bus
+Rider:19 Boarded to the bus
+Rider:20 Boarded to the bus
+Rider:21 Boarded to the bus
+Rider:22 Boarded to the bus
+Rider:23 Boarded to the bus
+Rider:24 Boarded to the bus
+Rider:25 Boarded to the bus
+Rider:26 Boarded to the bus
+Rider:27 Boarded to the bus
+Rider:28 Boarded to the bus
+Rider:29 Boarded to the bus
 Rider:30 Boarded to the bus
 Rider:31 Boarded to the bus
 Rider:32 Boarded to the bus
 Rider:33 Boarded to the bus
-Bus:10 depart
-Rider:34 enter to the boarding area
-Rider:35 enter to the boarding area
-Rider:36 enter to the boarding area
-Bus:11 arrived
 Rider:34 Boarded to the bus
 Rider:35 Boarded to the bus
 Rider:36 Boarded to the bus
-Bus:11 depart
-Rider:37 enter to the boarding area
-Rider:38 enter to the boarding area
-Rider:39 enter to the boarding area
-Bus:12 arrived
 Rider:37 Boarded to the bus
 Rider:38 Boarded to the bus
 Rider:39 Boarded to the bus
-Bus:12 depart
-Rider:40 enter to the boarding area
+Rider:40 Boarded to the bus
+Rider:41 Boarded to the bus
+Rider:42 Boarded to the bus
+Rider:43 Boarded to the bus
+Rider:44 Boarded to the bus
+Rider:45 Boarded to the bus
+Rider:46 Boarded to the bus
+Rider:47 Boarded to the bus
+Rider:48 Boarded to the bus
+Rider:49 Boarded to the bus
+Rider:50 Boarded to the bus
+Bus:1 depart
+Rider:55 enter to the boarding area
+Rider:56 enter to the boarding area
+Rider:57 enter to the boarding area
+Rider:58 enter to the boarding area
+Rider:59 enter to the boarding area
+Rider:60 enter to the boarding area
+Rider:61 enter to the boarding area
+Rider:62 enter to the boarding area
+Rider:63 enter to the boarding area
+Rider:64 enter to the boarding area
+Rider:65 enter to the boarding area
+Rider:66 enter to the boarding area
+Rider:67 enter to the boarding area
+Rider:68 enter to the boarding area
+Rider:69 enter to the boarding area
+Rider:70 enter to the boarding area
+Rider:71 enter to the boarding area
+Rider:72 enter to the boarding area
+Bus:2 arrived
+Rider:51 Boarded to the bus
+Rider:52 Boarded to the bus
+Rider:53 Boarded to the bus
+Rider:54 Boarded to the bus
+Rider:55 Boarded to the bus
+Rider:56 Boarded to the bus
+Rider:57 Boarded to the bus
+Rider:58 Boarded to the bus
+Rider:59 Boarded to the bus
+Rider:60 Boarded to the bus
+Rider:61 Boarded to the bus
+Rider:62 Boarded to the bus
+Rider:63 Boarded to the bus
+Rider:64 Boarded to the bus
+Rider:65 Boarded to the bus
+Rider:66 Boarded to the bus
+Rider:67 Boarded to the bus
+Rider:68 Boarded to the bus
+Rider:69 Boarded to the bus
+Rider:70 Boarded to the bus
+Rider:71 Boarded to the bus
+Rider:72 Boarded to the bus
+Bus:2 depart
+Rider:73 enter to the boarding area
+Rider:74 enter to the boarding area
+Rider:75 enter to the boarding area
+Rider:76 enter to the boarding area
+Rider:77 enter to the boarding area
+Rider:78 enter to the boarding area
+Rider:79 enter to the boarding area
+Rider:80 enter to the boarding area
+Rider:81 enter to the boarding area
+Rider:82 enter to the boarding area
+Rider:83 enter to the boarding area
+Rider:84 enter to the boarding area
+Rider:85 enter to the boarding area
+Rider:86 enter to the boarding area
+Rider:87 enter to the boarding area
+Rider:88 enter to the boarding area
+Bus:3 arrived
+Rider:73 Boarded to the bus
+Rider:74 Boarded to the bus
+Rider:75 Boarded to the bus
+Rider:76 Boarded to the bus
+Rider:77 Boarded to the bus
+Rider:78 Boarded to the bus
+Rider:79 Boarded to the bus
+Rider:80 Boarded to the bus
+Rider:81 Boarded to the bus
+Rider:82 Boarded to the bus
+Rider:83 Boarded to the bus
+Rider:84 Boarded to the bus
+Rider:85 Boarded to the bus
+Rider:86 Boarded to the bus
+Rider:87 Boarded to the bus
+Rider:88 Boarded to the bus
+Bus:3 depart
+Rider:89 enter to the boarding area
+Rider:90 enter to the boarding area
+Rider:91 enter to the boarding area
+Rider:92 enter to the boarding area
+Rider:93 enter to the boarding area
+Rider:94 enter to the boarding area
+Rider:95 enter to the boarding area
+Rider:96 enter to the boarding area
+Rider:97 enter to the boarding area
+Rider:98 enter to the boarding area
+Rider:99 enter to the boarding area
+Rider:100 enter to the boarding area
+Rider:101 enter to the boarding area
+Rider:102 enter to the boarding area
+Rider:103 enter to the boarding area
+Rider:104 enter to the boarding area
+Rider:105 enter to the boarding area
+Rider:106 enter to the boarding area

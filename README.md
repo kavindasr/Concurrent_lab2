@@ -14,9 +14,9 @@ cd src
 javac Main.java
 ```
 
-3. Run the java program.
+3. Run the java program and record output to a text file
 ```bash
-java Main
+java Main | tee -i simulation.txt
 ```
 
 Project Contains,
